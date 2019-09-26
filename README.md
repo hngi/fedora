@@ -26,8 +26,8 @@ Using this server, you are to complete the following task:
 11. Once done, DM any of the devops mentors for review.
 
 P.S.: 
-a) If you are caught using this server for anything other than the task, you will be evicted from the internship.
-B) When you document, list each member and what they contributed.
-C) Also, note, deadline might change
+1. If you are caught using this server for anything other than the task, you will be evicted from the internship.
+2. When you document, list each member and what they contributed.
+3. Also, note, deadline might change
 
 
