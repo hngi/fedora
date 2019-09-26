@@ -1,3 +1,3 @@
 ### We are testing auto-deploy
-This version does not have a blog menu
-The news menu was changed to blog
+1. This version does not have a blog menu
+2. The news menu was changed to blog
