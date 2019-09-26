@@ -1,7 +1,7 @@
 # DevOPs Task: Server Setup And Autodeploy
 
 ## Team Members 
-1. Timothy Mayor 
+1. Timothy Mayor (@Timothy Mayor) - Team Lead
 2. Sydney J. Ekpo	(@Sydney)
 3. Bayo Duduyemi	(@Blaqnificent)
 4. Oluleke Olatunji	(@Oluleke)
