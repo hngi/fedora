@@ -30,4 +30,5 @@ P.S.:
 2. When you document, list each member and what they contributed.
 3. Also, note, deadline might change
 
-## This is just for Deployment Testing - https://hngi.github.io/html/.
+
+## This is setup for reviewing Deployment Tests - https://hngi.github.io/html/.
